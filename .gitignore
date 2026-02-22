@@ -233,3 +233,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Large files
+glove.6B.*
+cifar-10-python.tar.gz
